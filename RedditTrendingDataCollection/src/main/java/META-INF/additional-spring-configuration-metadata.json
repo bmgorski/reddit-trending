@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "rdc.username",
+    "type": "java.lang.String",
+    "description": "A description for 'rdc.username'"
+  },
+  {
+    "name": "rdc.password",
+    "type": "java.lang.String",
+    "description": "A description for 'rdc.password'"
+  },
+  {
+    "name": "rdc.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'rdc.client-id'"
+  },
+  {
+    "name": "rdc.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'rdc.client-secret'"
+  }
+]}
